@@ -1,2 +1,2 @@
 # Webscrapping_Baseball_Stats
-Webscrapping projects with data analysis of the scrapped statisitcs of the Cardinals for the last 5 years
+Webscrapping projects with data analysis of the scrapped statisitcs of the Cardinals for the last 5 years. The website scrapped was scrapped using Beautiful Soup. Statisitcs of each player was scrapped for the last 5 years. Statistics whihc include players salary, expereince and games played. After the statistics was scrapped, players stats were analyzed. With utilzing seaborn scatter plots and histogrmans were created to answer questions such as realtionship between salary and experience and players weight and relationship between games played as bats and games played as defense.
